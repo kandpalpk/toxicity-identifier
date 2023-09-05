@@ -1,6 +1,8 @@
 # toxicity-identifier
 
-<img width="1512" alt="image" src="https://github.com/kandpalpk/toxicity-identifier/assets/71525747/34fd3803-78ea-49f0-b042-2c63ad1fff70">
+Streamlit web interface
+
+<img width="850" alt="image" src="https://github.com/kandpalpk/toxicity-identifier/assets/71525747/3873ff7c-45ac-4f8a-b510-5617caedfca6">
 <br>
-<img width="1261" alt="image" src="https://github.com/kandpalpk/toxicity-identifier/assets/71525747/b53fb99d-1094-4d93-80fb-1b5793df9c3a">
+<img width="690" alt="image" src="https://github.com/kandpalpk/toxicity-identifier/assets/71525747/7b5d8c2f-a212-458d-a613-060dd73c5940">
 
