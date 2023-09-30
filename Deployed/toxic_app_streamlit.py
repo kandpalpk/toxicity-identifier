@@ -4,7 +4,7 @@ import pickle
 import numpy as np
 
 # Load the TF-IDF vocabulary specific to the category (same as Flask app)
-with open(r"toxic_vect.pkl", "rb") as f:
+with open(r"/opt/render/project/src/Deployed/toxic_vect.pkl", "rb") as f:
     tox = pickle.load(f)
 
 with open(r"severe_toxic_vect.pkl", "rb") as f:
